@@ -1,0 +1,185 @@
+=== Application info ===
+Name:            Sims4
+Version:         1.36.104.1220
+Build:           Release
+=== Rating info ===
+GPU: 2 GPU Memory: 4 CPU: 1 RAM: 3 CPU Speed: 1600 Threading: 3
+Adjusted CPU: 2133 RAM: 4096 Adjusted RAM: 3584 Cores: 2
+=== Machine info ===
+OS version:      Mac OS X Version 10.12.6 (Build 16G29)
+OS prod type:    
+OS major ver:    10
+OS minor ver:    12
+OS SP major ver: 
+OS SP minor ver: 
+OS is 64Bit:     1
+CPU:             MacBookAir7,1
+    Brand:       Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+    Family:      8
+    Model:       7
+    Cores:       2
+    HT:          1
+    x64:         1
+Memory:          4096MB
+Free memory:     765MB
+VA space:        4095MB
+User:            amelafili
+Computer:        Amelas-MacBook-Air
+=== Graphics device info ===
+Number:          0
+Name (driver):   Intel HD Graphics 6000
+Name (database): Intel (R) Iris Graphics 6000 [Found: 1, Supported: 1]
+Vendor:          Intel
+Chipset:         Vendor: 8086, Device: 1626, Board: 0000011a, Chipset: 0009
+Driver:          Intel(R) HD Graphics 6000, Version: 0.10.25.17
+Driver version:  17
+Monitor:         00000000
+Texture memory:  1536MB
+Vertex program:  4.10
+Pixel program:   4.10
+Hardware TnL:    0
+Opt. features:   +sab +a8l8 -rgba16f +r32f -bc4 -bc5 -rawz -intz
+=== Options ===
+NumBoots 26
+LightingQuality 1
+GeneralReflections 0
+ObjectQuality 1
+VisualEffects 1
+PostProcessing 0
+UseUncompressedTextures 0
+TerrainQuality 1
+EdgeSmoothing 0
+SimQuality 1
+ViewDistance 1
+AdvancedRendering 0
+VerticalSync 0
+UseHiDpi 0
+UiScale 100
+ResolutionWidth 1366
+ResolutionHeight 768
+ResolutionRefresh 0
+SceneResolution 2
+VisualQuality 1
+FullScreen 1
+WindowedFullScreen 0
+FrameRateLimit 200
+DisableScreensaverInFullscreenMode 1
+AudioQuality 1
+AudioOutputMode 1
+MasterLevel 0
+VoiceLevel 0
+SoundFXLevel 0
+MusicLevel 0
+MenuMusicLevel 0
+UISoundSXLevel 0
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+AdvancedCamera 0
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 2
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+MaxProtectedSims 0
+ShowModListStartup 1
+ModsDisabled 0
+ScriptModsEnabled 0
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
+=== Default Options ===
+NumBoots 4294967295
+LightingQuality 1
+GeneralReflections 0
+ObjectQuality 1
+VisualEffects 1
+PostProcessing 0
+UseUncompressedTextures 0
+TerrainQuality 1
+EdgeSmoothing 0
+SimQuality 1
+ViewDistance 1
+AdvancedRendering 0
+VerticalSync 0
+UseHiDpi 1
+UiScale 100
+ResolutionWidth 1600
+ResolutionHeight 900
+ResolutionRefresh 4294967295
+SceneResolution 2
+VisualQuality 1
+FullScreen 0
+WindowedFullScreen 0
+FrameRateLimit 200
+DisableScreensaverInFullscreenMode 1
+AudioQuality 1
+AudioOutputMode 1
+MasterLevel 255
+VoiceLevel 255
+SoundFXLevel 255
+MusicLevel 255
+MenuMusicLevel 255
+UISoundSXLevel 255
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+AdvancedCamera 0
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 1
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+MaxProtectedSims 0
+ShowModListStartup 1
+ModsDisabled 0
+ScriptModsEnabled 0
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
